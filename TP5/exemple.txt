@@ -1,0 +1,10 @@
+
+Understanding the underlying file system is also crucial.
+File systems organize data on hard drives and storage systems, 
+providing a hierarchy of directories and files. In Python, it 
+is important to know the difference between relative and absolute 
+paths. A relative path specifies the location of a file relative to 
+the current working directory, while an absolute path provides the 
+full path starting from the root of the file system. This understanding 
+of file types and file systems sets the stage for effective file 
+manipulation in Python.
