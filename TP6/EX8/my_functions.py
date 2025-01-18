@@ -1,7 +1,7 @@
 import logging
 
 class NegativeAgeError(Exception):
-    """Exception levée lorsque l'âge est négatif."""
+    
     pass
 
 def log_error(message):
