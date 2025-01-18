@@ -1,0 +1,19 @@
+{
+    "etudiants": [
+        {
+            "nom": "Hajar",
+            "âge": 21,
+            "note": 15.5
+        },
+        {
+            "nom": "Khaoula",
+            "âge": 22,
+            "note": 12.0
+        },
+        {
+            "nom": "Lamyae",
+            "âge": 22,
+            "note": 18.0
+        }
+    ]
+}
