@@ -1,0 +1,6 @@
+Un module est un fichier contenant du code Python, qui peut inclure
+des fonctions, des classes et des variables. Les modules permettent de
+structurer le code et de le rendre r´eutilisable. En utilisant des
+modules, vous pouvez s´eparer des fonctionnalit´es sp´ecifiques d’un
+programme, facilitant ainsi la maintenance et la compr´ehension du
+code.

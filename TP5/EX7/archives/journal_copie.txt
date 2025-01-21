@@ -1,0 +1,2 @@
+Ceci est une entrée de journal.
+Deuxième ligne du journal.
